@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seasongamesleague.com/sitemap.xml
